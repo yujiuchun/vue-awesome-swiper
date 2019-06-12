@@ -1,6 +1,7 @@
 <template>
   <div>
     <h1>家庭教师</h1>
+    <h2>我永远喜欢库洛姆·髑髅</h2>
     <swiper :options="swiperOption" ref="mySwiper" @someSwiperEvent="callback">
       <!-- slides -->
       <swiper-slide><img src="../assets/111.jpg" alt=""></swiper-slide>
